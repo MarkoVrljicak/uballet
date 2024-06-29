@@ -16,7 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.uballet.wallet"
+      "bundleIdentifier": "com.flperez.uballet"
     },
     "android": {
       "package": "com.uballet.wallet",
